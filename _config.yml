@@ -98,7 +98,7 @@ author:
   bio              : "I am a 2020 NYU graduate with a Masters in Information Systems. I have three years of experience in datan anlytics and Sales performance Implementation."
   location         : "New York, NY"
   github           : "Proneet27"
-  linkedIn         : "https://www.linkedin.com/in/proneet-pathak-912b9621/"
+  linkedIn         : "in/proneet-pathak-912b9621/"
 
   links:
     - label: "Email"
@@ -118,7 +118,7 @@ author:
       # url: "https://github.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedIn"
-      # url: "https://linkedIn.com/"
+      # url: "https://www.linkedin.com/"
 
 # Site Footer
 footer:
