@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "About"
+  - title: "About Me"
     url: /about/
-  - title: "Projects"
-    url: /projects
   - title: "Machine Learning Posts"
     url: /machine-learning/
+  - title: "Projects"
+    url: /projects
   - title: "Resume"
-    url: https://github.com/Proneet27/Proneet27.github.io/blob/master/images/Resume-Proneet%20Pathak.pdf
+    url: https://github.com/Shreyash1811/Shreyash1811.github.io/blob/master/images/Shreyashkathiriya_resume_Spring2020.pdf
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
