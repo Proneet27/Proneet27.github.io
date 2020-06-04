@@ -4,6 +4,10 @@ main:
     url: /about/
   - title: "Data Science"
     url: /data-science/
+  - title: "Projects"
+    url: /projects
+  - title: "Resume"
+    url: https://github.com/Proneet27/Proneet27.github.io/blob/master/images/Resume-Proneet%20Pathak.pdf
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
