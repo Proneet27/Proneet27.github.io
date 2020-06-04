@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects
+  - title: "Machine Learning Posts"
+    url: /machine-learning/
   - title: "Resume"
     url: https://github.com/Proneet27/Proneet27.github.io/blob/master/images/Resume-Proneet%20Pathak.pdf
 

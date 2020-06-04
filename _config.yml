@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Proneet Pathak"
-  avatar           : "/images/profile_picture.png"
+  avatar           : "/images/download.jpg"
   bio              : "I am a 2020 NYU graduate with a Masters in Information Systems. I have three years of experience in data analytics and Sales performance Implementation."
   location         : "New York, NY"
   email            : "pp1982@nyu.edu"
@@ -269,4 +269,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
