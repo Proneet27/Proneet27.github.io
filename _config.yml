@@ -99,6 +99,7 @@ author:
   location         : "New York, NY"
   github           : "Proneet27"
   linkedIn         : "https://www.linkedin.com/in/proneet-pathak-912b9621/"
+
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -115,9 +116,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedIn"
+      # url: "https://linkedIn.com/"
 
 # Site Footer
 footer:
